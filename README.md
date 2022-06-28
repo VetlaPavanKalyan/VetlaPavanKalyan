@@ -37,7 +37,9 @@
 <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=v20131a4463&show_icons=true&locale=en" alt="v20131a4463" /></p>
 <br/>
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v20131a4463&show_icons=true&locale=en&layout=compact" alt="v20131a4463" /></p>
+<br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
