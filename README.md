@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://v20131a4463.github.io/PersonalPortfolio/]https://v20131a4463.github.io/htmlProjects/)
+- 👨‍💻 All of my projects are available at [https://v20131a4463.github.io/htmlProjects/]
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vetlapavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vetlapavan" height="30" width="40" /></a>
-<a href="https://twitter.com/vetlapavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vetlapavan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vetlapavankalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vetlapavankalyan" height="30" width="40" /></a>
+<a href="https://codepen.io/VetlaPavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vetlapavan" height="30" width="40" /></a>
+<a href="https://twitter.com/VetlaPavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vetlapavan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vetla-pavan-kalyan-651375209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vetlapavankalyan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vetlapavan_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vetlapavan_123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20131a44631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20131a44631" height="30" width="40" /></a>
 </p>
