@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vetlapavan" target="blank"><img src="https://img.shields.io/twitter/follow/vetlapavan?logo=twitter&style=for-the-badge" alt="vetlapavan" /></a> </p>
 
-- 🔭 I’m currently working on [Html Projects](https://github.com/v20131a4463/htmlProjects)
+- 🔭 I’m currently working on FrontEnd Development, Machine Learning
 
 - 🌱 I’m currently learning **CSS, Javascript**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://v20131a4463.github.io/htmlProjects/]
+- 👨‍💻 All of my projects are available at [Front End Projects](https://github.com/v20131a4463/htmlProjects)
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
