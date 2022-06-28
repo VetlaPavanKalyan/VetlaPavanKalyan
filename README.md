@@ -57,7 +57,6 @@
 
 # ❤ Views and Followers
 <br/>
-<br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=v20131a4463">
 </a>
