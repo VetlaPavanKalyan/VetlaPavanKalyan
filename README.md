@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://v20131a4463.github.io/PersonalPortfolio/](https://v20131a4463.github.io/PersonalPortfolio/)
+- 👨‍💻 All of my projects are available at [https://v20131a4463.github.io/PersonalPortfolio/]https://v20131a4463.github.io/htmlProjects/)
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
