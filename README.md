@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
-# Connect with me:
+# 🔗 Connect with me:
 <p align="left">
 <a href="https://codepen.io/VetlaPavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vetlapavan" height="30" width="40" /></a>
 <a href="https://twitter.com/VetlaPavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vetlapavan" height="30" width="40" /></a>
