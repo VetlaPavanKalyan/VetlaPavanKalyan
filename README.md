@@ -1,4 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a align="center" href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" align="center" width="40%" height="40%"/></p>
+ 
+
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm VETLA PAVAN KALYAN</h1>
 <h3 align="center">A passionate frontend developer and problem solver from India</h3>
