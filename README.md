@@ -4,7 +4,7 @@
  
 
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;"></p>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;Lazy+to+study;"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm VETLA PAVAN KALYAN</h1>
 <h3 align="center">A passionate frontend developer and problem solver from India</h3>
