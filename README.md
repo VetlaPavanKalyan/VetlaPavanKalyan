@@ -12,15 +12,15 @@
 
 # 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on FrontEnd Development, Machine Learning
+- 🔭 I’m currently working on **HTML ,CSS, Javascript**
 
-- 🌱 I’m currently learning **CSS, Javascript**
+- 🌱 I’m currently learning **FrontEnd Development, Machine Learning** 
 
 - 👯 I’m looking to collaborate on **Html Projects**
 
 - 🤝 I’m looking for help with **CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [Front End Projects](https://github.com/v20131a4463/htmlProjects)
+- 👨‍💻 All of my projects are available at **[Front End Projects](https://github.com/v20131a4463/htmlProjects)**
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
