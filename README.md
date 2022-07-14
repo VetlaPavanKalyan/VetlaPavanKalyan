@@ -1,6 +1,6 @@
 <a align="center" href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" align="center" width="40%" height="40%"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" align="center" width="60%" height="60%"/></p>
  
 
 <p align="center" >
