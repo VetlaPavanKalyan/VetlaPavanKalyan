@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Html Projects, Machine Learning Projects**
 
-- 🤝 I’m looking for help with **[CSS, Javascript, Machine Learning](https://github.com/v20131a4463/htmlcssjsFiles)**
+- 🤝 I’m looking for help with **[CSS, Javascript](https://github.com/v20131a4463/htmlcssjsFiles)**
 
 - 👨‍💻 All of my HTML Projects are available at **[Here](https://github.com/v20131a4463/htmlProjects)**
 
