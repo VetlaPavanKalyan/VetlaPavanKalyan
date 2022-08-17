@@ -16,15 +16,15 @@
 
 - 🌱 I’m currently learning **FrontEnd Development, Machine Learning** 
 
-- 👯 I’m looking to collaborate on **Html Projects**
+- 👯 I’m looking to collaborate on **Html Projects, Machine Learning Projects**
 
-- 🤝 I’m looking for help with **CSS, Javascript**
+- 🤝 I’m looking for help with **CSS, Javascript, Machine Learning**
 
-- 👨‍💻 All of my Front End Projects are available at **[Front End Projects](https://github.com/v20131a4463/htmlProjects)**
+- 👨‍💻 All of my Front End Projects are available at **[Here](https://github.com/v20131a4463/htmlProjects)**
 
-- 👨‍💻 All of my Supervised-Learning Projects are available at **[Supervised-Learning Projects](https://github.com/v20131a4463/Supervised-Learning)**
+- 👨‍💻 All of my Supervised-Learning Projects are available at **[Here](https://github.com/v20131a4463/Supervised-Learning)**
 
-- 👨‍💻 All of my Advanced-Learning-Algorithms-Projects are available at **[Advanced-Learning-Algorithms-Projects](https://github.com/v20131a4463/Advanced-Learning-Algorithms)**
+- 👨‍💻 All of my Advanced-Learning-Algorithms-Projects are available at **[Here](https://github.com/v20131a4463/Advanced-Learning-Algorithms)**
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
