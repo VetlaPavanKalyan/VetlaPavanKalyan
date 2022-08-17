@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **CSS, Javascript, Machine Learning**
 
-- 👨‍💻 All of my Front End Projects are available at **[Here](https://github.com/v20131a4463/htmlProjects)**
+- 👨‍💻 All of my HTML Projects are available at **[Here](https://github.com/v20131a4463/htmlProjects)**
 
 - 👨‍💻 All of my Supervised-Learning Projects are available at **[Here](https://github.com/v20131a4463/Supervised-Learning)**
 
