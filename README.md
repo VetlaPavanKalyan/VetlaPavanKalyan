@@ -12,13 +12,13 @@
 
 # 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **HTML ,CSS, Javascript**
+- 🔭 I’m currently working on **[HTML ,CSS, Javascript](https://github.com/v20131a4463/htmlcssjsFiles)**
 
 - 🌱 I’m currently learning **FrontEnd Development, Machine Learning** 
 
 - 👯 I’m looking to collaborate on **Html Projects, Machine Learning Projects**
 
-- 🤝 I’m looking for help with **CSS, Javascript, Machine Learning**
+- 🤝 I’m looking for help with **[CSS, Javascript, Machine Learning](https://github.com/v20131a4463/htmlcssjsFiles)**
 
 - 👨‍💻 All of my HTML Projects are available at **[Here](https://github.com/v20131a4463/htmlProjects)**
 
