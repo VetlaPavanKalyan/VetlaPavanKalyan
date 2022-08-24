@@ -22,9 +22,7 @@
 
 - 👨‍💻 All of my HTML Projects are available at **[Here](https://github.com/v20131a4463/htmlProjects)**
 
-- 👨‍💻 All of my Supervised-Learning Projects are available at **[Here](https://github.com/v20131a4463/Supervised-Learning)**
-
-- 👨‍💻 All of my Advanced-Learning-Algorithms-Projects are available at **[Here](https://github.com/v20131a4463/Advanced-Learning-Algorithms)**
+- 👨‍💻 My Boston Housing Price Prediction Project is available at **[Here](https://github.com/v20131a4463/Boston-Housing-Price-Prediction)**
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
