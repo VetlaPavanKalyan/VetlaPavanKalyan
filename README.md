@@ -45,22 +45,22 @@
 
 # 📊 My Github Stats
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v20131a4463&show_icons=true&locale=en" alt="v20131a4463" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VetlaPavanKalyan&show_icons=true&locale=en" alt="v20131a4463" /></p>
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v20131a4463&show_icons=true&locale=en&layout=compact" alt="v20131a4463" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VetlaPavanKalyan&show_icons=true&locale=en&layout=compact" alt="v20131a4463" /></p>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v20131a4463&" alt="v20131a4463" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VetlaPavanKalyan&" alt="v20131a4463" /></p>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v20131a4463" alt="v20131a4463" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VetlaPavanKalyan" alt="VetlaPavanKalyan" /></a> </p>
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="VETLA PAVAN KALYAN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=v20131a4463&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="VETLA PAVAN KALYAN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VetlaPavanKalyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -68,6 +68,6 @@
 # ❤ Views and Followers
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=v20131a4463">
+    <img src="https://komarev.com/ghpvc/?username=VetlaPavanKalyan">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/v20131a4463?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/VetlaPavanKalyan?label=Followers&style=social" alt="GitHub Badge"></a>
