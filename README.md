@@ -1,13 +1,7 @@
-<a align="center" href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" align="center" width="60%" height="60%"/></p>
- 
-
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;Lazy+to+study;"></p>
+<p align="center"><img src="https://github.com/VetlaPavanKalyan/htmlcssjsFiles/blob/master/wp-Problem-Solver-ML-Enthusiast_1677429819.jpg" align="center"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm VETLA PAVAN KALYAN</h1>
-<h3 align="center">A passionate frontend developer and problem solver from India</h3>
+<h3 align="center">Problem Solver and Machine Learning Enthusiast</h3>
 
 
 # 🙋‍♂️ About Me
@@ -58,11 +52,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VetlaPavanKalyan" alt="VetlaPavanKalyan" /></a> </p>
 <br/>
-<br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="VETLA PAVAN KALYAN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VetlaPavanKalyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 # ❤ Views and Followers
