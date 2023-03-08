@@ -19,7 +19,7 @@
 
 
 # 📊 My LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/vpavankalyan?ext=heatmap&theme=nord&font=)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vpavankalyan?ext=heatmap&theme=wtf&font=)
 <br/>
 
 # ❤ Views and Followers
