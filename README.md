@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **20131a4463@gvpce.ac.in**
 
+- Checkout my game on TicTacToe using Minimax Algorithm here: [LINK](https://github.com/VetlaPavanKalyan/TicTacToeLive) 
+
 # 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/VetlaPavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vetlapavan" height="30" width="40" /></a>
